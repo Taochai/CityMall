@@ -16,5 +16,7 @@
         <module>citymall-order</module>
         <module>citymall-product</module>
         <module>citymall-ware</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
     </modules>
 </project>
